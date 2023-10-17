@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Suwa;
+    src: url(../fonts/suwa.ttf);
+}
+
+.w3-logo-suwa {
+  font-family: suwa;
+  font-size: 24px;
+}
